@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+.heading{
+    color: blueviolet;
+    text-align: center;
+    margin: 60px 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.imgdiv{
+    display: flex;
+    justify-content: center;
+}
+.imgdiv img{
+
+    width: 200px;
+    height: 300px;
+}
