@@ -78,7 +78,7 @@ const Footer = () => {
                 <SocialIcon  color="000">
                     <GitHub/>
                 </SocialIcon>
-                <SocialIcon  color="0077B5">
+                <SocialIcon  color="0077B5g">
                     <LinkedIn/>
                 </SocialIcon>
             </SocialContainer>

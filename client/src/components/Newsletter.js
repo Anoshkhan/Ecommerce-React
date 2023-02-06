@@ -3,7 +3,7 @@ import React from 'react';
 import styled from 'styled-components';
 const Container = styled.div`
     height: 60vh;
-    background-color: #fcf5f5;
+    background-color: #f5e9e9;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,6 +31,7 @@ const Input = styled.input`
     border: none;
     flex: 8;
     padding-left: 20px;
+    font-size: 17px;
 `;
 const Button = styled.button`
     flex: 1;
