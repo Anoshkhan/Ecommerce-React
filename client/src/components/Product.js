@@ -29,13 +29,6 @@ const Container = styled.div`
         opacity: 1;
     }
 `;
-const Circle = styled.div`
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-    background-color: white;
-    position: absolute;
-`;
 const Image = styled.img`
     height: 80%;
     width: 80%;
