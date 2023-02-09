@@ -6,7 +6,7 @@ const Container = styled.div`
     height: 30px;
     color: white;
     margin: 0px;
-    background-color: black;
+    background-color: purple;
     display: flex;
     align-items: center;
     justify-content: center;

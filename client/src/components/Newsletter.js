@@ -36,7 +36,7 @@ const Input = styled.input`
 const Button = styled.button`
     flex: 1;
     border: none;
-    background-color: teal;
+    background-color: purple;
     color: white;
 `;
 

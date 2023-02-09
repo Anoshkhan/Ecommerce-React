@@ -64,7 +64,7 @@ const Navbar = () => {
         </SearchContainer>
       </Left>
       <Center>
-        <Logo>Next<span style={{color:"red"}}>Level.</span></Logo>
+        <Logo>Next<span style={{color:"purple"}}>Level.</span></Logo>
       </Center>
       <Right>
         <MenuItem>Register</MenuItem>
