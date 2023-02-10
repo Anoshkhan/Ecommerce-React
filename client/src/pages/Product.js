@@ -134,7 +134,9 @@ const Product = () => {
         </Wrapper>
         <Newsletter />
         <Footer />
+        
     </Container>
+    
   )
 }
 
