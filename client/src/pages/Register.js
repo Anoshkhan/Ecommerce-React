@@ -3,8 +3,9 @@ import styled from "styled-components";
 const Container = styled.div`
   width: 100vw;
   height: 100vh;
-  background: url("https://cdn.pixabay.com/photo/2017/07/31/21/49/happy-2561417_960_720.jpg") center;
+  background: url("https://cdn.pixabay.com/photo/2020/05/26/07/43/skateboard-5221914_960_720.jpg") right;
   background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,6 +15,7 @@ const Wrapper = styled.div`
   padding: 20px;
   background-color: white;
   border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
 `;
 const Title = styled.h1`
   font-size: 24px;
@@ -28,6 +30,7 @@ const Input = styled.input`
   min-width: 40%;
   margin: 20px 10px 0px 0px;
   padding: 10px;
+  border: 1px solid gray;
 `;
 const Agreement = styled.span`
   font-size:15px;
