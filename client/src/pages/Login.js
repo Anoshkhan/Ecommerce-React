@@ -27,6 +27,7 @@ const Form = styled.form`
 `;
 const Input = styled.input`
   flex: 1;
+  
   min-width: 40%;
   margin: 10px 0px;
   padding: 10px;
