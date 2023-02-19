@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { Facebook, GitHub, Instagram, LinkedIn, Room, Phone, MailOutline } from '@material-ui/icons';
 const Container = styled.div`
     display: flex;
+    background-color: #F5F5F5;
 `;
 const Left = styled.div`
     flex: 1;
@@ -67,7 +68,7 @@ const Footer = () => {
     <Container>
         <Left>
             <Logo>NextLevel.</Logo>
-            <Desc>A fusion of beautiful leathers, strong silhouettes, and impeccable detailing, this collection is for the people who likes to makes a bold statement in footwear.</Desc>
+            <Desc>A fusion of beautiful leathers, strong silhouett, and impeccable detailing, this collection is for the people who likes to makes a bold statement in footwear.</Desc>
             <SocialContainer>
                 <SocialIcon color="3B5999">
                     <Facebook />
@@ -78,7 +79,7 @@ const Footer = () => {
                 <SocialIcon  color="000">
                     <GitHub/>
                 </SocialIcon>
-                <SocialIcon  color="0077B5g">
+                <SocialIcon  color="0077B5">
                     <LinkedIn/>
                 </SocialIcon>
             </SocialContainer>

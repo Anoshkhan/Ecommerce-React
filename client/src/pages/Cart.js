@@ -7,7 +7,9 @@ import { Add, Remove } from '@material-ui/icons';
 
 
 const Container = styled.div``;
-const Wrapper = styled.div``;
+const Wrapper = styled.div`
+  margin-bottom: 50px;
+`;
 const Title = styled.h1`
   font-weight: 400;
   text-align: center;
